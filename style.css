@@ -45,7 +45,7 @@ legend {
     padding-left: .5rem;
 }
 input:focus, button:focus, a:focus {
-    outline: none !important;
+    outline: none;
     border-color: #73ccff;
     box-shadow: 0 0 5px #73ccff;
 }
