@@ -68,7 +68,7 @@ input:focus, button:focus, a:focus {
 #agree + *::before {
     content: "";
     display: inline-block;
-    vertical-align: middle;
+    vertical-align: bottom;
     margin-right: 4px;
     width: .5rem;
     height: .5rem;
