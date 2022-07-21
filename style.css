@@ -1,4 +1,4 @@
-* {
+*, *::before, *::after {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -89,7 +89,7 @@ input:focus, button:focus, a:focus {
 }
 p {
     width: 80%;
-    font-size: .7rem;
+    font-size: .6rem;
     font-weight: lighter;
 }
 button, #signIn{
@@ -119,7 +119,7 @@ button:hover {
 span {
     background-color: #428bca;
     color: white;
-    font-size: .6rem;
+    font-size: .5rem;
     padding: .1rem .5rem;
     line-height: 1rem;
     border-radius: 2px;
